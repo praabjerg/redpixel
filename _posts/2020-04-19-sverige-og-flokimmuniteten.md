@@ -3,7 +3,7 @@ layout:     post
 title:      Sverige og Flokimmuniteten
 summary:    Hvorfor, Sverige? Hvorfor?
 categories: covid19
-thumbnail: virus
+thumbnail: viruses
 tags:
  - covid19
  - sverige
@@ -29,7 +29,7 @@ Det skal dog også siges at selv Sveriges tilgang er langt fra "business as usua
 * Kollektivtrafikken i Stockholm forsøger at holde et rejsende-tryk på godt 30%.
 * Den svenske økonomi er på nedtur, og vi står med mange arbejdsløse, ganske som i andre lande som har instigeret et *reelt* lockdown.
 
-Men jeg har indtryk af at det virker!
+Og jeg har indtryk af at det virker!
 
 Så hvorfor?
 
@@ -49,8 +49,4 @@ Tegnell selv siger at blot 3-4% vil være immune til maj. En hypotetisk flokimmu
 * Hvor mange skal leve med varige organskader? Vi ved af indlysende grunde stadig ikke meget om de langsigtede effekter på dem der *overlever* turen på intensiven.
 * Flokimmunitet antager en generel spredning af immune i samfundet, så viruset ikke kan sprede sig. Men de fleste ældre har naturligvis (som andre generationer) mest andre ældre mennesker i deres vennekreds. Selv hvis vi lykkedes med at isolere vore ældre, så vil der fortsætte med at findes klynger af kontakter af ældre i samfundet som er sårbare. FLOKIMMUNITET ER IKKE EN STRATEGI.
 
-Mit håb lige nu er at vores lemfældige omgang med dette virus bliver et emne for international diplomati. Jeg har indtryk af at Folkhälsomyndigheten er uden for pædagogisk rækkevidde, og regeringen vil ikke tage ansvaret for en faktisk strategi på sig.
-
-Men uanset hvad Sverige vil, så *bør* strategien være et politisk spørgsmål. Vi har nu et valg mellem at lade smitten sprede sig, med alle de konsekvenser det medfører for samfundet, eller at bruge WHOs strategi for at holde smitten i bund, så vi kan komme tilbage til noget der ligner en normal hverdag uden at skulle frygte konstant for at starte nye smittekæder.
-
-Og det bør være et politisk valg, ikke et valg for en myndighed at tage.
+Mit håb lige nu er at vores lemfældige omgang med dette virus bliver et emne for international diplomati, når andre EU-lande efterhånden får det under kontrol. For hvordan skal andre lande kunne forsvare at åbne grænserne helt for svenskere igen, hvis vi bare lader sygdommen fortsætte sin tur gennem befolkningen under et helt år?
