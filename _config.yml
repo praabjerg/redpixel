@@ -5,15 +5,18 @@ description: "Random sophistry from an atheist, leftist, Danish/Swedish software
 baseurl: ""
 url: "http://localhost"
 title_description: "<p>Random sophistry from an atheist, leftist, Danish/Swedish software engineer with a background in computer science.</p>
-<p>This page exists as a public place to air my thoughts without some of the filters that are imposed by social media and the knowledge that posts may be pushed to large parts of a \"friends list\". My identity is not a secret as such, merely slightly obscured to give me some peace of mind as I sometimes write about very personal things, and (very rarely) things that anger me to such an extent as to require copious amounts of swearing. The point being, you choosing to follow my activity here is entirely on <i>you</i>. And that allows me to be less nervous about what I write and how.</p>
+<p>This page exists as a public place to air my thoughts without some of the filters that are imposed by social media, my anxiety, and the knowledge that posts may be pushed to large parts of a \"friends list\". My identity is not a secret as such, merely slightly obscured to give me some peace of mind as I sometimes write about very personal things, and (very rarely) things that anger me to such an extent as to require copious amounts of swearing. The point being, you choosing to follow my activity here is mostly on <i>you</i>. And that allows me to be less nervous about what I write and how.</p>
 <p>I will sometimes write in Danish, sometimes Swedish, sometimes English. It depends on context. If you'd like a post translated, or have questions or comments, I can be reached via \"rp\" at this site's name.</p>
-<p>Comments may be enabled in the future, but this will require some work, so as to both allow anonymity and encourage thoughtful responses. But I do not expect this to be a frequently visited place anyway.</p>"
-title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+<p>Comments may be enabled in the future, but this will require some work, so as to both allow anonymity and encourage thoughtful responses. But I do not expect this to be a frequently visited place anyway.</p>
+<p>My birth-assigned gender is not something I feel enormously attached to. I have come to think of myself as a they/them, but I do not generally object to any of the common pronouns. Most people feel more strongly about this. <i>Please</i> try to respect their wishes."
+# title_image: "data/redpixel.png"
 # google_analytics: "UA-20365477-4"
 # disqus_account: cartenoire
 # github_repository: https://github.com/jacobtomlinson/carte-noire
 # addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
+
+timezone: Europe/Stockholm
 
 # Social usernames/URLs
 # twitter_username: _jacobtomlinson
